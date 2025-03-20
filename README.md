@@ -1,4 +1,4 @@
-# Table-reservation-system
+# Table-Reservation-System
 This is a software developed to reserve tables in a restaurant by entering the number of seats required by the user, and the manage the bookings and pay the bills.
-<br>
 Author - Nikhil S
+
