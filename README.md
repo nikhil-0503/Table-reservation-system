@@ -26,7 +26,7 @@ The **Restaurant Table Reservation System** is a Python-based application with a
 3. Clone or download this repository.
 4. Run the main script:
    ```sh
-   python table_reservation_system.py
+   python restaurant_table_system.py
    ```
 
 ## Usage
